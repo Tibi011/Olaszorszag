@@ -38,9 +38,9 @@ ul {
   }
 
   body{
-    background-image: url(kepek/italybg2.jpg);
+    background-image: linear-gradient( green, white,red);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:auto;
     font-style: italic;
   }
 
@@ -74,6 +74,9 @@ h2{
     color:black;
 }
 
+.mySlides {
+  display:none;
+}
 
 
 
